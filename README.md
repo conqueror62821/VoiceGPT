@@ -20,7 +20,7 @@ IntelliVoiceGPT converts your audio input to text using OpenAI's Whisper. Then, 
 
 ## Usage
 
-1. Download Repository folder or git clone https://github.com/Tristan296/IntelliVoiceGPT
+1. Download Repository folder or `git clone https://github.com/conqueror62821/VoiceGPT`
 2. run `python setup.py install` in terminal
 3. In `.env` file add your OPENAI api key: `OPENAI_API_KEY=your_key_here` 
 4. Open terminal and run `python3 main.py`
